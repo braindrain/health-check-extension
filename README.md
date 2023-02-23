@@ -14,3 +14,7 @@ Adds health-check endpoint to Quarkus application:
             <version>1.0.0-SNAPSHOT</version>
   </dependency>
 ```
+
+```
+2023-02-23 17:42:24,636 INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [..., health-check-extension, ...]
+```
