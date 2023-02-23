@@ -1,6 +1,9 @@
 # quarkus-health-check-extension
 Quarkus Extension Demo
 
+Adds health-check endpoint to Quarkus application: 
+`/health`
+
 #Installation steps:
 * mvn clean install
 * add maven dependency to Quarkus project: 
